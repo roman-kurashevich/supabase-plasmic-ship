@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "projectId": "2Pat3ZDrS4bwt4EoXhj2Qr",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "m_49zKWzwqEET",
+          "checksum": "8bacbcf11deb12eb34e7709a6317e737"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "a0TbNpfvv5Qb",
+          "checksum": "108881933d741164f4a34ab4d4ad82e0"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "a0TbNpfvv5Qb",
+          "checksum": "108881933d741164f4a34ab4d4ad82e0"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "pWrXX7v25R",
+          "checksum": "d07d2fdff0cecc0e6466ee516652df53"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "pWrXX7v25R",
+          "checksum": "d07d2fdff0cecc0e6466ee516652df53"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "MMlaHY98rX",
+          "checksum": "a94060a751f2639d09f29f537a0264d2"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "MMlaHY98rX",
+          "checksum": "a94060a751f2639d09f29f537a0264d2"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "K9__Dle_8j",
+          "checksum": "c20ae46a3b33773234c1bce79c07b0a3"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "K9__Dle_8j",
+          "checksum": "c20ae46a3b33773234c1bce79c07b0a3"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "wEj7BMv1PI",
+          "checksum": "ef9a61d1931d3d56c71e9166638650a3"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "wEj7BMv1PI",
+          "checksum": "ef9a61d1931d3d56c71e9166638650a3"
+        },
+        {
+          "type": "icon",
+          "assetId": "NsjwX0wYFV",
+          "checksum": "462ecbd72a6602071a87cca21638b1b6"
+        },
+        {
+          "type": "icon",
+          "assetId": "7M8vFcVb-L",
+          "checksum": "163df871a3cf7200d236c4aab40aa0c7"
+        },
+        {
+          "assetId": "2Pat3ZDrS4bwt4EoXhj2Qr",
+          "type": "projectCss",
+          "checksum": "f3c2ac5f7d2107839a687583154bd6f0"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.186"
+}
